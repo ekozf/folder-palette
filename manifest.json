@@ -1,0 +1,10 @@
+{
+  "id": "folder-palette",
+  "name": "Folder Palette",
+  "version": "2.0.0",
+  "minAppVersion": "1.13.7",
+  "description": "Color File Explorer folders and files with dynamic, stable, preset, or custom palettes.",
+  "author": "ekozf",
+  "authorUrl": "https://github.com/ekozf",
+  "isDesktopOnly": false
+}
